@@ -1,0 +1,12 @@
+div {
+    height: 100px;
+    padding: 5px;
+    margin: 10px;
+}
+.yellow {
+    background-color: #FFFF00;
+}
+.black {
+    background-color: black;
+    color: white;
+}
